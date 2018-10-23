@@ -1,0 +1,44 @@
+{
+  "ver": "1.0",
+  "ret": true,
+  "errcode": 0,
+  "errmsg": "",
+  "data": [
+    {
+    "img": "/Tibet/images/place1.jpg"
+    },
+    {
+      "img": "/Tibet/images/place2.jpg"
+    },
+    {
+      "img": "/Tibet/images/place3.jpg"
+    },
+    {
+      "img": "/Tibet/images/place4.jpg"
+    },
+    {
+      "img": "/Tibet/images/place5.jpg"
+    },
+    {
+      "img": "/Tibet/images/place6.jpg"
+    },
+    {
+    "img": "/Tibet/images/place1.jpg"
+    },
+    {
+      "img": "/Tibet/images/place2.jpg"
+    },
+    {
+      "img": "/Tibet/images/place3.jpg"
+    },
+    {
+      "img": "/Tibet/images/place4.jpg"
+    },
+    {
+      "img": "/Tibet/images/place5.jpg"
+    },
+    {
+      "img": "/Tibet/images/place6.jpg"
+    }
+  ]
+}

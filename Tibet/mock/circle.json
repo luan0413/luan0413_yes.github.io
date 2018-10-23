@@ -1,0 +1,42 @@
+﻿[
+  {
+    "img": "/Tibet/images/circle1.jpg",
+    "title": "目的地",
+    "details": "西藏最值得去的地方"
+  },
+  {
+    "img": "/Tibet/images/circle2.jpg",
+    "title": "游记攻略",
+    "details": "西藏游记、攻略、百科"
+  },
+  {
+    "img": "/Tibet/images/circle3.jpg",
+    "title": "户外狂人",
+    "details": "极地户外探险，户外装备"
+  },
+  {
+    "img": "/Tibet/images/circle4.jpg",
+    "title": "美图西藏",
+    "details": "风光，人物，随手拍 记录路上点滴"
+  },
+  {
+    "img": "/Tibet/images/circle5.jpg",
+    "title": "结伴游",
+    "details": "你邀我约去西藏"
+  },
+  {
+    "img": "/Tibet/images/circle6.jpg",
+    "title": "爱情西藏",
+    "details": "倾听与西藏有关的爱情故事"
+  },
+  {
+    "img": "/Tibet/images/circle7.jpg",
+    "title": "圣地美人",
+    "details": "美人秀场/心事/时尚"
+  },
+  {
+    "img": "/Tibet/images/circle8.jpg",
+    "title": "西藏地图",
+    "details": "西藏随身地图"
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "ver": "1.0",
+  "ret": true,
+  "errcode": 0,
+  "errmsg": "",
+  "data": [
+    {
+    "img": "/Tibet/images/concentz1.png",
+    "title": "轻便"
+    },
+    {
+      "img": "/Tibet/images/concentz2.png",
+      "title": "防滑"
+    },
+    {
+      "img": "/Tibet/images/concentz3.png",
+      "title": "舒适"
+    },
+    {
+      "img": "/Tibet/images/concentz4.png",
+      "title": "适合爬山"
+    },
+    {
+      "img": "/Tibet/images/concentz5.png",
+      "title": "减小阻力"
+    },
+    {
+      "img": "/Tibet/images/concentz6.png",
+      "title": "安全"
+    },
+    {
+    "img": "/Tibet/images/concentz1.png",
+    "title": "轻便"
+    },
+    {
+      "img": "/Tibet/images/concentz2.png",
+      "title": "防滑"
+    },
+    {
+      "img": "/Tibet/images/concentz3.png",
+      "title": "舒适"
+    },
+    {
+      "img": "/Tibet/images/concentz4.png",
+      "title": "适合爬山"
+    },
+    {
+      "img": "/Tibet/images/concentz5.png",
+      "title": "减小阻力"
+    },
+    {
+      "img": "/Tibet/images/concentz6.png",
+      "title": "安全"
+    }
+  ]
+}

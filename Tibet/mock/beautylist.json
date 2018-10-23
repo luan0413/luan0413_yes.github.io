@@ -1,0 +1,36 @@
+{
+  "ver": "1.0",
+  "ret": true,
+  "errcode": 0,
+  "errmsg": "",
+  "data": [
+    {
+      "img": "/Tibet/images/tabc7.jpg",
+      "title": "拉萨,感受信仰带来的力量"
+    },
+    {
+      "img": "/Tibet/images/tabc8.jpg",
+      "title": "藏东大地的沉思"
+    },
+    {
+      "img": "/Tibet/images/tabc9.jpg",
+      "title": "到了布达拉宫"
+    },
+    {
+    "img": "/Tibet/images/tabc10.jpg",
+    "title": "西藏阿里,札达土林,大自然的鬼斧神工"
+    },
+    {
+      "img": "/Tibet/images/tabc11.jpg",
+      "title": "四川色达"
+    },
+    {
+      "img": "/Tibet/images/tabc12.jpg",
+      "title": "拉萨,感受信仰带来的力量"
+    },
+    {
+      "img": "/Tibet/images/tabc13.jpg",
+      "title": "藏东大地的沉思"
+    }
+  ]
+}

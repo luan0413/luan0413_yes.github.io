@@ -1,0 +1,18 @@
+[
+  { "img":"/Tibet/images/circle1.jpg",
+    "totle":"目的地",
+    "details":"西藏最值得去的地方"
+  },
+  { "img":"/Tibet/images/circle2.jpg",
+    "totle":"目的地",
+    "details":"西藏最值得去的地方"
+  },
+  { "img":"/Tibet/images/circle3.jpg",
+    "totle":"目的地",
+    "details":"西藏最值得去的地方"
+  },
+  { "img":"/Tibet/images/circle4.jpg",
+    "totle":"目的地",
+    "details":"西藏最值得去的地方"
+  }
+]

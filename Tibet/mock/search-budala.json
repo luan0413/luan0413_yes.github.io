@@ -1,0 +1,34 @@
+{
+  "ret": 0,
+  "errorcode": "",
+  "data":[
+    { "title":"到了布达拉宫",
+      "details":"西藏最值得去的地方",
+      "img":"/Tibet/images/search1.jpg",
+      "time":"2分钟前",
+      "classif":"随手拍",
+      "reader":"5"
+    },
+    { "title":"中国有'8'座布达拉宫,你知道几座",
+      "details":"去西藏必去拉萨,去拉萨不去布达拉宫,一个令人向往的地方",
+      "img":"/Tibet/images/search2.jpg",
+      "time":"2分钟前",
+      "classif":"随手拍",
+      "reader":"5"
+    },
+    { "title":"泼甜墙",
+      "details":"历经千年的布达拉宫,为什么看起来总像新建不就得?",
+      "img":"/Tibet/images/search3.jpg",
+      "time":"2分钟前",
+      "classif":"随手拍",
+      "reader":"5"
+    },
+    { "title":"小巷/酸奶坊",
+      "details":"传说中布达拉宫旁边的酸奶坊,人气一如既往的高",
+      "img":"/Tibet/images/search4.jpg",
+      "time":"2分钟前",
+      "classif":"随手拍",
+      "reader":"5"
+    }
+  ]
+}
